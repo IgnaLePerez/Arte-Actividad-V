@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 1px solid black;
+}
+
+header{
+    width: 100%;
+    display: inline-block;
+    background-color: blueviolet;
+}
+
+header h1{
+    margin: 1%;
+    text-align: center;
+    color: aliceblue;
+}
+
+main {
+
+}
+
+main nav{
+    margin-left: 30%;
+    width: 40%;
+    clear: left;
+    margin-top: 7%;
+    display: inline-block;
+}
+
+main nav ul{}
+
+main nav ul li{
+    float: left;
+    width: 22.5%;
+    padding: 1%;
+    list-style: none;
+    text-align: center;
+}
+
+/* Clases */
+
+.navegador1 {
+    margin-top: 3.5%;
+    height: 50px;
+    align-content: center;
+}
+
+.navegador1 ul li{
+    width: 15%;
+    margin-left: 6.2%;
+}
