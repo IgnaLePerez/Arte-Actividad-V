@@ -81,5 +81,15 @@ main nav ul li{
 }
 
 /* Navegador 2 */
+.navegador2 {
+    margin-top: 5%;
+    padding: 2%;
+    height: auto;
+    align-content: center;
+    background-color: rgb(219, 200, 56);
+    border-radius: 10px;
+    box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.35), 0px 34px 44px 0px rgba(0, 0, 0, 0.17);
+    margin-left: 28%;
+}
 
 /* Navegador 3 */
