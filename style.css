@@ -103,8 +103,13 @@ main nav ul li{
     width: 16%;
     aspect-ratio: 1 / 1;
     align-content: center;
-    background-color: white;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.navegador2 ul li a {
+    text-decoration: none;
+    color: transparent;
 }
 
 
@@ -114,17 +119,18 @@ main nav ul li{
     background-color: white;
     background-image: url("imagenes/Talleres.png");
     
+    
 }
 
 .equipo2{
 
     background-color: white;
-    background-image: url("");
+    background-image: url("imagenes/colon.png");
     
 }
 .equipo3{
     background-color: white;
-    background-image: url("");
+    background-image: url("imagenes/belgrano.png");
 }
 .equipoEspecial{    
     height: auto;
