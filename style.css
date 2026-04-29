@@ -135,3 +135,29 @@ main nav ul li{
     
 }
 /* Navegador 3 */
+
+.navegador3 ul li 
+{
+    width: 22%;
+    aspect-ratio: 1 / 1;
+    align-content: center;
+    background-color: blue;
+    background-size: cover;
+    border: 1px solid red;
+    border-radius: 5%;
+}
+.navegador3 ul li a
+{
+    color: greenyellow;
+}
+
+.navegador3{
+    padding: 2%;
+    margin-left: 28%;
+}
+
+.navegador3 ul 
+{
+    display: flex;
+    justify-content: space-around;
+}
